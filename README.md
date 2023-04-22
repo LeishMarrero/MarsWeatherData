@@ -18,8 +18,8 @@ The warmest month is the <b>eight</b> month with an average temperature of <b>-6
 ![SortedMarsAvgMinTemperatures](Graphs/SortedMarsAvgMinTemperatures.png)
 
 ### Atmospheric Pressure in Mars
-The month with the highest atmospheric pressure is the <b>ninth</b> month with an average pressure of 913.31.
-The month with the lowest atmospheric pressure is the <b>sixth</b> month with an average pressure of 745.05.
+The month with the highest atmospheric pressure is the <b>ninth</b> month with an average pressure of <b>913.31</b>.
+The month with the lowest atmospheric pressure is the <b>sixth</b> month with an average pressure of <b>745.05</b>.
 
 ![MarsAvgPres](Graphs/MarsAvgPres.png)
 
